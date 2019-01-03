@@ -1,5 +1,17 @@
-{
-"name":"John",
-"age":30,
-"cars":[ "Ford", "BMW", "Fiat" ]
-}
+[
+  {
+    "id": 1,
+    "name": "john",
+    "age": 21
+  },
+  {
+    "id": 2,
+    "name": "judy",
+    "age": 31
+  },
+  {
+    "id": 3,
+    "name": "jack",
+    "age": 41
+  }
+]
